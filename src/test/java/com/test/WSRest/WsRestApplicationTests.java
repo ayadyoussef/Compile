@@ -11,6 +11,6 @@ public class WsRestApplicationTests {
 
 	@Test
 	public void contextLoads() {
-	}
+}
 
 }
